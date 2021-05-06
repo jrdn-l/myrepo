@@ -1,0 +1,23 @@
+Origin: Jordan's Repo
+Label: Jordan's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Test repo
+
+Package: com.jordan.first
+Name: First
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jordan
+Author: Jordan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.jordan.first-0.0.1-1+debug_iphoneos-arm.deb
+Size: 3472
+MD5sum: 29a7a74eccbbdc73862feee1661ffbed
+SHA1: 9d773b6d1c433e6efce694a70a0e53d13bc6d948
+SHA256: d0636515c1b510e16fd76d6db8f00165659cdec7932d907469d06391f6a83423
