@@ -7,8 +7,23 @@ Maintainer: Jordan
 Author: Jordan
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.jordan.first-0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.jordan.first-0.0.1_iphoneos-arm.deb
 Size: 3472
 MD5sum: 29a7a74eccbbdc73862feee1661ffbed
 SHA1: 9d773b6d1c433e6efce694a70a0e53d13bc6d948
 SHA256: d0636515c1b510e16fd76d6db8f00165659cdec7932d907469d06391f6a83423
+
+Package: com.jordan.fiveicondock
+Name: FiveIconDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a 5th icon to your dock
+Maintainer: Jordan
+Author: Jordan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.jordan.fiveicondock_0.0.1_iphoneos-arm.deb
+Size: 3382
+MD5sum: 3188493a8c9aada869bed16cb35c6070
+SHA1: 0e44c160b63b1957e184752c2b5d738d42f791e5
+SHA256: da7b05ab346a2b99e51abb7ff37c0f8ba09e61a7ca201ca2fad6272db139d83d
