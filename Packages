@@ -27,3 +27,20 @@ Size: 3382
 MD5sum: 3188493a8c9aada869bed16cb35c6070
 SHA1: 0e44c160b63b1957e184752c2b5d738d42f791e5
 SHA256: da7b05ab346a2b99e51abb7ff37c0f8ba09e61a7ca201ca2fad6272db139d83d
+
+Package: com.jordan.fastunlock
+Name: FastUnlock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Automatically unlocks your iphone! No need to swipe up on lockscreen anymore!
+Maintainer: Jordan
+Author: Jordan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.16), preferenceloader
+Filename: debs/com.jordan.fastunlock_0.0.1_iphoneos-arm.deb
+Size: 7414
+MD5sum: 66b348476ec95d8cd53e50028f9d212f
+SHA1: 13173086649ca5ce659e40928e4d527a96dedc9b
+SHA256: c5718aa68d1491e2f00a0e289072605cd13ccc5f612a7559fb2105c1030906ec
+
+
